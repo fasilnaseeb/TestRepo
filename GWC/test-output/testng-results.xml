@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20428" started-at="2020-04-16T15:14:39 IST" finished-at="2020-04-16T15:14:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20428" started-at="2020-04-16T15:14:39 IST" finished-at="2020-04-16T15:14:59 IST">
+      <class name="com.crm.Test.TestLogin">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.crm.Test.TestLogin@3dd4520b]" name="openBrowser" is-config="true" duration-ms="19256" started-at="2020-04-16T15:14:39 IST" finished-at="2020-04-16T15:14:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="usernametest()[pri:0, instance:com.crm.Test.TestLogin@3dd4520b]" name="usernametest" duration-ms="1105" started-at="2020-04-16T15:14:58 IST" finished-at="2020-04-16T15:14:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernametest -->
+      </class> <!-- com.crm.Test.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
